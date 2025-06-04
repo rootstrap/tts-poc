@@ -1,5 +1,3 @@
-import io
-
 import streamlit as st
 
 from utils.elevenlabs import get_elevenlabs_client, get_elevenlabs_tts
