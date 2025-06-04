@@ -19,11 +19,7 @@ A Streamlit-based web application that combines OpenAI's chat capabilities with 
 
 ## Installation
 
-1. Clone this repository:
-```bash
-git clone https://github.com/yourusername/tts-poc.git
-cd tts-poc
-```
+1. Clone this repository
 
 2. Install the required dependencies:
 ```bash
